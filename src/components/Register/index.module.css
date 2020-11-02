@@ -1,0 +1,12 @@
+.Register{
+    /* background-color: green; */
+}
+.btnstyle{
+    width:150px;
+    border-radius: 3px;
+    letter-spacing: 1.5px;
+    margin-top: 1rem;
+}
+.linkcolor{
+    color: #2979FF;  
+}
